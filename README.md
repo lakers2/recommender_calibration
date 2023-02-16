@@ -8,10 +8,10 @@ Put the articles data into the data directory.
 To run the code, make sure you check the enviroment and dependency version:
 
 * Ubuntu Version: 18.04
-* Python Version: 3.8
+* Python Version: 3.8.8
 * torch Version: 1.10
-* pandas Version: 1.5.3
-* numpy Version: 1.24
+* pandas Version: 1.2.2
+* numpy Version: 1.22.3
 * matplotlib Version: 3.6.3
 * scikit-learn Version: 1.2.1
 
